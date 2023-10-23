@@ -2,7 +2,7 @@
 
 This is a repo set up for 
 
-- testing the shiny app at https://fredbec.shinyapps.io/testshiny/
+- testing the shiny app at https://fredbec.shinyapps.io/test-macropi/
 
 - testing / getting feedback on the repo structure in itself
 
