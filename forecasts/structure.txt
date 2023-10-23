@@ -1,0 +1,1 @@
+Simple .csv files with the following columns: country, target, forecast_year, forecast_season, target_year, quantile, prediction
