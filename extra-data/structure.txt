@@ -1,0 +1,1 @@
+This folder contains extra data for visualizing past values of the series and the point forecasts.
